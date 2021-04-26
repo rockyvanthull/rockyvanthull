@@ -1,8 +1,8 @@
-- 👋 Hi, I’m rocky jean l. van thull
-- 👀 I’m interested into  github
-- 🌱 I’m currently learning cooking
-- 💞️ I’m looking to collaborate with you
-- 📫 How you can reach me call me on this telephone number +32456164158
+- 👋 Hi, I’m @rockyvanthull
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
 
 <!---
 rockyvanthull/rockyvanthull is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
